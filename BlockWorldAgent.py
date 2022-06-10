@@ -4,6 +4,11 @@ class BlockWorldAgent:
         pass
 
     def solve(self, initial_arrangement, goal_arrangement):
+
+		#find blocks on the table -> make array of blocks on table and see which ones on the 
+
+
+
         #Add your code here! Your solve method should receive
 		#as input two arrangements of blocks. The arrangements
 		#will be given as lists of lists. The first item in each
